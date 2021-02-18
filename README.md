@@ -1,0 +1,2 @@
+# ElectronAutoUpdateExp
+test di autoupdate
